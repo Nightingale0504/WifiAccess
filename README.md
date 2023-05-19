@@ -1,0 +1,1 @@
+This is a Wifi access QR code generator.
